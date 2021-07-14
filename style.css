@@ -57,13 +57,41 @@ a:hover {
 }
 @media only screen and (max-width: 600px) {
   .links {
-    margin-top: 15px;
-    padding: 12px;
+    margin-top: 20px;
+    padding: 15px;
     border: 0.5px solid white;
     border-width: 1px;
     width: 290px;
   }
   .profile-picture{
-    margin-top: 9%;
+    margin-top: 15%;
   }
 }
+
+
+
+
+
+
+
+/*
+.bloodgroup{
+  animation-name: colorChange;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+@keyframes colorChange{    
+  0% {
+      color:#d11f1f;
+  }
+  25% {
+      color: rgb(255, 123, 0);
+  }
+  50% {
+      color:orange;
+  }
+  100%{
+      color: rgb(238, 42, 42);
+  }
+}
+*/
