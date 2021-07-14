@@ -16,7 +16,7 @@ img {
     margin-right: auto;
     margin-top: 7%;
     height: auto;
-    max-width: 150px;
+    max-width: 130px;
   }
 
 .profile-name {
@@ -58,7 +58,7 @@ a:hover {
 @media only screen and (max-width: 600px) {
   .links {
     margin-top: 20px;
-    padding: 15px;
+    padding: 12px;
     border: 0.5px solid white;
     border-width: 1px;
     width: 290px;
